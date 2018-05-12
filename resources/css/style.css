@@ -1,0 +1,28 @@
+body {
+  font-family: Helvetica;
+  font-weight: bold;
+  text-align: center;
+  }
+p {
+  font-size: 14px;
+}
+
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 23px;
+}
+
+a {
+  font-size: 18px;
+}
+.building {
+  color: white;
+  background-image: src('./resources/the-flatiron-building.png)
+  background-image: href="./resources/the-flatiron-building.png"
+}
+
+.final {
+  background-color: dimgray;
+}
